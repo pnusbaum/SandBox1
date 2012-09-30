@@ -1,0 +1,1 @@
+http://blog.spontaneouspublicity.com/including-asp-net-simple-membership-tables-as-part-of-your-entity-framework-model
